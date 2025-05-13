@@ -52,7 +52,7 @@ a:active {
 
 /*estilos do cabeçalho*/
 .cabecalho {
-  background-image: url("img/4.png");
+  background-image: url("4.png");
 }
 .img {
   width: 100%;
@@ -141,7 +141,7 @@ a.cabecalho__botao {
 
 /* estilo seção 3*/
 .secao3__imagem {
-  background-image: url("img/mel.png");
+  background-image: url("mel.png");
 }
 .secao3__texto {
   margin: 30% 0 30% 0;
